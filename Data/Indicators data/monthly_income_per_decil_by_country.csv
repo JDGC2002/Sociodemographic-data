@@ -1,0 +1,581 @@
+iso3,Country__ESTANDAR,Years__ESTANDAR,Monthly Income,Deciles
+BOL,Bolivia (Plurinational State of),2000,0.0,Decile 1
+BOL,Bolivia (Plurinational State of),2000,10.0,Decile 2
+BOL,Bolivia (Plurinational State of),2000,20.0,Decile 3
+BOL,Bolivia (Plurinational State of),2000,30.0,Decile 4
+BOL,Bolivia (Plurinational State of),2000,40.0,Decile 5
+BOL,Bolivia (Plurinational State of),2000,50.0,Decile 6
+BOL,Bolivia (Plurinational State of),2000,70.0,Decile 7
+BOL,Bolivia (Plurinational State of),2000,90.0,Decile 8
+BOL,Bolivia (Plurinational State of),2000,150.0,Decile 9
+BOL,Bolivia (Plurinational State of),2000,420.0,Decile 10
+BOL,Bolivia (Plurinational State of),2005,0.0,Decile 1
+BOL,Bolivia (Plurinational State of),2005,10.0,Decile 2
+BOL,Bolivia (Plurinational State of),2005,20.0,Decile 3
+BOL,Bolivia (Plurinational State of),2005,30.0,Decile 4
+BOL,Bolivia (Plurinational State of),2005,40.0,Decile 5
+BOL,Bolivia (Plurinational State of),2005,50.0,Decile 6
+BOL,Bolivia (Plurinational State of),2005,70.0,Decile 7
+BOL,Bolivia (Plurinational State of),2005,100.0,Decile 8
+BOL,Bolivia (Plurinational State of),2005,160.0,Decile 9
+BOL,Bolivia (Plurinational State of),2005,430.0,Decile 10
+BOL,Bolivia (Plurinational State of),2015,30.0,Decile 1
+BOL,Bolivia (Plurinational State of),2015,70.0,Decile 2
+BOL,Bolivia (Plurinational State of),2015,100.0,Decile 3
+BOL,Bolivia (Plurinational State of),2015,130.0,Decile 4
+BOL,Bolivia (Plurinational State of),2015,170.0,Decile 5
+BOL,Bolivia (Plurinational State of),2015,210.0,Decile 6
+BOL,Bolivia (Plurinational State of),2015,260.0,Decile 7
+BOL,Bolivia (Plurinational State of),2015,330.0,Decile 8
+BOL,Bolivia (Plurinational State of),2015,440.0,Decile 9
+BOL,Bolivia (Plurinational State of),2015,840.0,Decile 10
+BOL,Bolivia (Plurinational State of),2020,30.0,Decile 1
+BOL,Bolivia (Plurinational State of),2020,80.0,Decile 2
+BOL,Bolivia (Plurinational State of),2020,110.0,Decile 3
+BOL,Bolivia (Plurinational State of),2020,140.0,Decile 4
+BOL,Bolivia (Plurinational State of),2020,170.0,Decile 5
+BOL,Bolivia (Plurinational State of),2020,210.0,Decile 6
+BOL,Bolivia (Plurinational State of),2020,260.0,Decile 7
+BOL,Bolivia (Plurinational State of),2020,330.0,Decile 8
+BOL,Bolivia (Plurinational State of),2020,460.0,Decile 9
+BOL,Bolivia (Plurinational State of),2020,880.0,Decile 10
+BRA,Brazil,2005,50.0,Decile 1
+BRA,Brazil,2005,90.0,Decile 2
+BRA,Brazil,2005,120.0,Decile 3
+BRA,Brazil,2005,150.0,Decile 4
+BRA,Brazil,2005,190.0,Decile 5
+BRA,Brazil,2005,210.0,Decile 6
+BRA,Brazil,2005,340.0,Decile 7
+BRA,Brazil,2005,410.0,Decile 8
+BRA,Brazil,2005,620.0,Decile 9
+BRA,Brazil,2005,1730.0,Decile 10
+BRA,Brazil,2015,90.0,Decile 1
+BRA,Brazil,2015,180.0,Decile 2
+BRA,Brazil,2015,260.0,Decile 3
+BRA,Brazil,2015,310.0,Decile 4
+BRA,Brazil,2015,410.0,Decile 5
+BRA,Brazil,2015,510.0,Decile 6
+BRA,Brazil,2015,640.0,Decile 7
+BRA,Brazil,2015,750.0,Decile 8
+BRA,Brazil,2015,1120.0,Decile 9
+BRA,Brazil,2015,2900.0,Decile 10
+BRA,Brazil,2020,60.0,Decile 1
+BRA,Brazil,2020,140.0,Decile 2
+BRA,Brazil,2020,190.0,Decile 3
+BRA,Brazil,2020,250.0,Decile 4
+BRA,Brazil,2020,300.0,Decile 5
+BRA,Brazil,2020,390.0,Decile 6
+BRA,Brazil,2020,470.0,Decile 7
+BRA,Brazil,2020,600.0,Decile 8
+BRA,Brazil,2020,870.0,Decile 9
+BRA,Brazil,2020,2310.0,Decile 10
+CHL,Chile,2000,60.0,Decile 1
+CHL,Chile,2000,110.0,Decile 2
+CHL,Chile,2000,150.0,Decile 3
+CHL,Chile,2000,180.0,Decile 4
+CHL,Chile,2000,230.0,Decile 5
+CHL,Chile,2000,280.0,Decile 6
+CHL,Chile,2000,340.0,Decile 7
+CHL,Chile,2000,450.0,Decile 8
+CHL,Chile,2000,650.0,Decile 9
+CHL,Chile,2000,1670.0,Decile 10
+CHL,Chile,2015,220.0,Decile 1
+CHL,Chile,2015,370.0,Decile 2
+CHL,Chile,2015,460.0,Decile 3
+CHL,Chile,2015,560.0,Decile 4
+CHL,Chile,2015,660.0,Decile 5
+CHL,Chile,2015,790.0,Decile 6
+CHL,Chile,2015,960.0,Decile 7
+CHL,Chile,2015,1210.0,Decile 8
+CHL,Chile,2015,1700.0,Decile 9
+CHL,Chile,2015,4140.0,Decile 10
+CHL,Chile,2020,140.0,Decile 1
+CHL,Chile,2020,320.0,Decile 2
+CHL,Chile,2020,420.0,Decile 3
+CHL,Chile,2020,520.0,Decile 4
+CHL,Chile,2020,620.0,Decile 5
+CHL,Chile,2020,750.0,Decile 6
+CHL,Chile,2020,910.0,Decile 7
+CHL,Chile,2020,1180.0,Decile 8
+CHL,Chile,2020,1720.0,Decile 9
+CHL,Chile,2020,4090.0,Decile 10
+COL,Colombia,2005,30.0,Decile 1
+COL,Colombia,2005,60.0,Decile 2
+COL,Colombia,2005,90.0,Decile 3
+COL,Colombia,2005,110.0,Decile 4
+COL,Colombia,2005,140.0,Decile 5
+COL,Colombia,2005,180.0,Decile 6
+COL,Colombia,2005,230.0,Decile 7
+COL,Colombia,2005,300.0,Decile 8
+COL,Colombia,2005,440.0,Decile 9
+COL,Colombia,2005,1210.0,Decile 10
+COL,Colombia,2010,50.0,Decile 1
+COL,Colombia,2010,100.0,Decile 2
+COL,Colombia,2010,150.0,Decile 3
+COL,Colombia,2010,200.0,Decile 4
+COL,Colombia,2010,260.0,Decile 5
+COL,Colombia,2010,320.0,Decile 6
+COL,Colombia,2010,420.0,Decile 7
+COL,Colombia,2010,560.0,Decile 8
+COL,Colombia,2010,820.0,Decile 9
+COL,Colombia,2010,2220.0,Decile 10
+COL,Colombia,2015,60.0,Decile 1
+COL,Colombia,2015,120.0,Decile 2
+COL,Colombia,2015,170.0,Decile 3
+COL,Colombia,2015,220.0,Decile 4
+COL,Colombia,2015,280.0,Decile 5
+COL,Colombia,2015,350.0,Decile 6
+COL,Colombia,2015,440.0,Decile 7
+COL,Colombia,2015,580.0,Decile 8
+COL,Colombia,2015,810.0,Decile 9
+COL,Colombia,2015,2060.0,Decile 10
+COL,Colombia,2020,30.0,Decile 1
+COL,Colombia,2020,90.0,Decile 2
+COL,Colombia,2020,140.0,Decile 3
+COL,Colombia,2020,180.0,Decile 4
+COL,Colombia,2020,240.0,Decile 5
+COL,Colombia,2020,300.0,Decile 6
+COL,Colombia,2020,380.0,Decile 7
+COL,Colombia,2020,510.0,Decile 8
+COL,Colombia,2020,740.0,Decile 9
+COL,Colombia,2020,1960.0,Decile 10
+CRI,Costa Rica,2000,40.0,Decile 1
+CRI,Costa Rica,2000,90.0,Decile 2
+CRI,Costa Rica,2000,120.0,Decile 3
+CRI,Costa Rica,2000,150.0,Decile 4
+CRI,Costa Rica,2000,180.0,Decile 5
+CRI,Costa Rica,2000,220.0,Decile 6
+CRI,Costa Rica,2000,280.0,Decile 7
+CRI,Costa Rica,2000,370.0,Decile 8
+CRI,Costa Rica,2000,510.0,Decile 9
+CRI,Costa Rica,2000,1100.0,Decile 10
+CRI,Costa Rica,2005,60.0,Decile 1
+CRI,Costa Rica,2005,110.0,Decile 2
+CRI,Costa Rica,2005,150.0,Decile 3
+CRI,Costa Rica,2005,180.0,Decile 4
+CRI,Costa Rica,2005,230.0,Decile 5
+CRI,Costa Rica,2005,280.0,Decile 6
+CRI,Costa Rica,2005,350.0,Decile 7
+CRI,Costa Rica,2005,450.0,Decile 8
+CRI,Costa Rica,2005,650.0,Decile 9
+CRI,Costa Rica,2005,1370.0,Decile 10
+CRI,Costa Rica,2010,90.0,Decile 1
+CRI,Costa Rica,2010,180.0,Decile 2
+CRI,Costa Rica,2010,250.0,Decile 3
+CRI,Costa Rica,2010,310.0,Decile 4
+CRI,Costa Rica,2010,380.0,Decile 5
+CRI,Costa Rica,2010,480.0,Decile 6
+CRI,Costa Rica,2010,600.0,Decile 7
+CRI,Costa Rica,2010,780.0,Decile 8
+CRI,Costa Rica,2010,1140.0,Decile 9
+CRI,Costa Rica,2010,2530.0,Decile 10
+CRI,Costa Rica,2015,120.0,Decile 1
+CRI,Costa Rica,2015,250.0,Decile 2
+CRI,Costa Rica,2015,340.0,Decile 3
+CRI,Costa Rica,2015,430.0,Decile 4
+CRI,Costa Rica,2015,530.0,Decile 5
+CRI,Costa Rica,2015,660.0,Decile 6
+CRI,Costa Rica,2015,840.0,Decile 7
+CRI,Costa Rica,2015,1110.0,Decile 8
+CRI,Costa Rica,2015,1640.0,Decile 9
+CRI,Costa Rica,2015,3510.0,Decile 10
+CRI,Costa Rica,2020,140.0,Decile 1
+CRI,Costa Rica,2020,260.0,Decile 2
+CRI,Costa Rica,2020,350.0,Decile 3
+CRI,Costa Rica,2020,450.0,Decile 4
+CRI,Costa Rica,2020,550.0,Decile 5
+CRI,Costa Rica,2020,690.0,Decile 6
+CRI,Costa Rica,2020,880.0,Decile 7
+CRI,Costa Rica,2020,1170.0,Decile 8
+CRI,Costa Rica,2020,1700.0,Decile 9
+CRI,Costa Rica,2020,3590.0,Decile 10
+ECU,Ecuador,2005,40.0,Decile 1
+ECU,Ecuador,2005,70.0,Decile 2
+ECU,Ecuador,2005,90.0,Decile 3
+ECU,Ecuador,2005,110.0,Decile 4
+ECU,Ecuador,2005,140.0,Decile 5
+ECU,Ecuador,2005,170.0,Decile 6
+ECU,Ecuador,2005,210.0,Decile 7
+ECU,Ecuador,2005,280.0,Decile 8
+ECU,Ecuador,2005,400.0,Decile 9
+ECU,Ecuador,2005,1070.0,Decile 10
+ECU,Ecuador,2010,60.0,Decile 1
+ECU,Ecuador,2010,120.0,Decile 2
+ECU,Ecuador,2010,150.0,Decile 3
+ECU,Ecuador,2010,180.0,Decile 4
+ECU,Ecuador,2010,230.0,Decile 5
+ECU,Ecuador,2010,280.0,Decile 6
+ECU,Ecuador,2010,340.0,Decile 7
+ECU,Ecuador,2010,440.0,Decile 8
+ECU,Ecuador,2010,640.0,Decile 9
+ECU,Ecuador,2010,1530.0,Decile 10
+ECU,Ecuador,2015,90.0,Decile 1
+ECU,Ecuador,2015,160.0,Decile 2
+ECU,Ecuador,2015,210.0,Decile 3
+ECU,Ecuador,2015,260.0,Decile 4
+ECU,Ecuador,2015,310.0,Decile 5
+ECU,Ecuador,2015,380.0,Decile 6
+ECU,Ecuador,2015,470.0,Decile 7
+ECU,Ecuador,2015,590.0,Decile 8
+ECU,Ecuador,2015,820.0,Decile 9
+ECU,Ecuador,2015,1840.0,Decile 10
+ECU,Ecuador,2020,80.0,Decile 1
+ECU,Ecuador,2020,150.0,Decile 2
+ECU,Ecuador,2020,200.0,Decile 3
+ECU,Ecuador,2020,240.0,Decile 4
+ECU,Ecuador,2020,280.0,Decile 5
+ECU,Ecuador,2020,350.0,Decile 6
+ECU,Ecuador,2020,430.0,Decile 7
+ECU,Ecuador,2020,540.0,Decile 8
+ECU,Ecuador,2020,730.0,Decile 9
+ECU,Ecuador,2020,1760.0,Decile 10
+SLV,El Salvador,2000,20.0,Decile 1
+SLV,El Salvador,2000,50.0,Decile 2
+SLV,El Salvador,2000,60.0,Decile 3
+SLV,El Salvador,2000,80.0,Decile 4
+SLV,El Salvador,2000,110.0,Decile 5
+SLV,El Salvador,2000,130.0,Decile 6
+SLV,El Salvador,2000,170.0,Decile 7
+SLV,El Salvador,2000,220.0,Decile 8
+SLV,El Salvador,2000,320.0,Decile 9
+SLV,El Salvador,2000,720.0,Decile 10
+SLV,El Salvador,2005,20.0,Decile 1
+SLV,El Salvador,2005,60.0,Decile 2
+SLV,El Salvador,2005,80.0,Decile 3
+SLV,El Salvador,2005,110.0,Decile 4
+SLV,El Salvador,2005,140.0,Decile 5
+SLV,El Salvador,2005,170.0,Decile 6
+SLV,El Salvador,2005,220.0,Decile 7
+SLV,El Salvador,2005,280.0,Decile 8
+SLV,El Salvador,2005,400.0,Decile 9
+SLV,El Salvador,2005,890.0,Decile 10
+SLV,El Salvador,2010,50.0,Decile 1
+SLV,El Salvador,2010,90.0,Decile 2
+SLV,El Salvador,2010,120.0,Decile 3
+SLV,El Salvador,2010,150.0,Decile 4
+SLV,El Salvador,2010,180.0,Decile 5
+SLV,El Salvador,2010,220.0,Decile 6
+SLV,El Salvador,2010,280.0,Decile 7
+SLV,El Salvador,2010,350.0,Decile 8
+SLV,El Salvador,2010,480.0,Decile 9
+SLV,El Salvador,2010,1000.0,Decile 10
+SLV,El Salvador,2015,80.0,Decile 1
+SLV,El Salvador,2015,120.0,Decile 2
+SLV,El Salvador,2015,160.0,Decile 3
+SLV,El Salvador,2015,190.0,Decile 4
+SLV,El Salvador,2015,230.0,Decile 5
+SLV,El Salvador,2015,280.0,Decile 6
+SLV,El Salvador,2015,340.0,Decile 7
+SLV,El Salvador,2015,420.0,Decile 8
+SLV,El Salvador,2015,550.0,Decile 9
+SLV,El Salvador,2015,1170.0,Decile 10
+SLV,El Salvador,2020,60.0,Decile 1
+SLV,El Salvador,2020,130.0,Decile 2
+SLV,El Salvador,2020,180.0,Decile 3
+SLV,El Salvador,2020,220.0,Decile 4
+SLV,El Salvador,2020,270.0,Decile 5
+SLV,El Salvador,2020,310.0,Decile 6
+SLV,El Salvador,2020,370.0,Decile 7
+SLV,El Salvador,2020,460.0,Decile 8
+SLV,El Salvador,2020,620.0,Decile 9
+SLV,El Salvador,2020,1230.0,Decile 10
+GTM,Guatemala,2000,10.0,Decile 1
+GTM,Guatemala,2000,20.0,Decile 2
+GTM,Guatemala,2000,30.0,Decile 3
+GTM,Guatemala,2000,40.0,Decile 4
+GTM,Guatemala,2000,60.0,Decile 5
+GTM,Guatemala,2000,80.0,Decile 6
+GTM,Guatemala,2000,100.0,Decile 7
+GTM,Guatemala,2000,130.0,Decile 8
+GTM,Guatemala,2000,210.0,Decile 9
+GTM,Guatemala,2000,720.0,Decile 10
+HND,Honduras,2005,10.0,Decile 1
+HND,Honduras,2005,30.0,Decile 2
+HND,Honduras,2005,40.0,Decile 3
+HND,Honduras,2005,50.0,Decile 4
+HND,Honduras,2005,60.0,Decile 5
+HND,Honduras,2005,80.0,Decile 6
+HND,Honduras,2005,100.0,Decile 7
+HND,Honduras,2005,130.0,Decile 8
+HND,Honduras,2005,200.0,Decile 9
+HND,Honduras,2005,570.0,Decile 10
+HND,Honduras,2010,30.0,Decile 1
+HND,Honduras,2010,50.0,Decile 2
+HND,Honduras,2010,60.0,Decile 3
+HND,Honduras,2010,80.0,Decile 4
+HND,Honduras,2010,100.0,Decile 5
+HND,Honduras,2010,120.0,Decile 6
+HND,Honduras,2010,160.0,Decile 7
+HND,Honduras,2010,210.0,Decile 8
+HND,Honduras,2010,300.0,Decile 9
+HND,Honduras,2010,740.0,Decile 10
+HND,Honduras,2015,40.0,Decile 1
+HND,Honduras,2015,70.0,Decile 2
+HND,Honduras,2015,80.0,Decile 3
+HND,Honduras,2015,110.0,Decile 4
+HND,Honduras,2015,130.0,Decile 5
+HND,Honduras,2015,160.0,Decile 6
+HND,Honduras,2015,200.0,Decile 7
+HND,Honduras,2015,260.0,Decile 8
+HND,Honduras,2015,360.0,Decile 9
+HND,Honduras,2015,800.0,Decile 10
+MEX,Mexico,2000,80.0,Decile 1
+MEX,Mexico,2000,140.0,Decile 2
+MEX,Mexico,2000,200.0,Decile 3
+MEX,Mexico,2000,260.0,Decile 4
+MEX,Mexico,2000,330.0,Decile 5
+MEX,Mexico,2000,410.0,Decile 6
+MEX,Mexico,2000,520.0,Decile 7
+MEX,Mexico,2000,670.0,Decile 8
+MEX,Mexico,2000,970.0,Decile 9
+MEX,Mexico,2000,2500.0,Decile 10
+MEX,Mexico,2010,100.0,Decile 1
+MEX,Mexico,2010,200.0,Decile 2
+MEX,Mexico,2010,280.0,Decile 3
+MEX,Mexico,2010,360.0,Decile 4
+MEX,Mexico,2010,450.0,Decile 5
+MEX,Mexico,2010,560.0,Decile 6
+MEX,Mexico,2010,680.0,Decile 7
+MEX,Mexico,2010,890.0,Decile 8
+MEX,Mexico,2010,1270.0,Decile 9
+MEX,Mexico,2010,3190.0,Decile 10
+MEX,Mexico,2020,130.0,Decile 1
+MEX,Mexico,2020,230.0,Decile 2
+MEX,Mexico,2020,300.0,Decile 3
+MEX,Mexico,2020,370.0,Decile 4
+MEX,Mexico,2020,450.0,Decile 5
+MEX,Mexico,2020,530.0,Decile 6
+MEX,Mexico,2020,650.0,Decile 7
+MEX,Mexico,2020,820.0,Decile 8
+MEX,Mexico,2020,1120.0,Decile 9
+MEX,Mexico,2020,2510.0,Decile 10
+NIC,Nicaragua,2005,10.0,Decile 1
+NIC,Nicaragua,2005,30.0,Decile 2
+NIC,Nicaragua,2005,40.0,Decile 3
+NIC,Nicaragua,2005,50.0,Decile 4
+NIC,Nicaragua,2005,60.0,Decile 5
+NIC,Nicaragua,2005,70.0,Decile 6
+NIC,Nicaragua,2005,90.0,Decile 7
+NIC,Nicaragua,2005,120.0,Decile 8
+NIC,Nicaragua,2005,170.0,Decile 9
+NIC,Nicaragua,2005,450.0,Decile 10
+PAN,Panama,2000,20.0,Decile 1
+PAN,Panama,2000,60.0,Decile 2
+PAN,Panama,2000,90.0,Decile 3
+PAN,Panama,2000,130.0,Decile 4
+PAN,Panama,2000,170.0,Decile 5
+PAN,Panama,2000,220.0,Decile 6
+PAN,Panama,2000,290.0,Decile 7
+PAN,Panama,2000,390.0,Decile 8
+PAN,Panama,2000,590.0,Decile 9
+PAN,Panama,2000,1480.0,Decile 10
+PAN,Panama,2005,30.0,Decile 1
+PAN,Panama,2005,70.0,Decile 2
+PAN,Panama,2005,110.0,Decile 3
+PAN,Panama,2005,160.0,Decile 4
+PAN,Panama,2005,210.0,Decile 5
+PAN,Panama,2005,270.0,Decile 6
+PAN,Panama,2005,360.0,Decile 7
+PAN,Panama,2005,500.0,Decile 8
+PAN,Panama,2005,730.0,Decile 9
+PAN,Panama,2005,1650.0,Decile 10
+PAN,Panama,2015,110.0,Decile 1
+PAN,Panama,2015,250.0,Decile 2
+PAN,Panama,2015,380.0,Decile 3
+PAN,Panama,2015,520.0,Decile 4
+PAN,Panama,2015,670.0,Decile 5
+PAN,Panama,2015,840.0,Decile 6
+PAN,Panama,2015,1070.0,Decile 7
+PAN,Panama,2015,1380.0,Decile 8
+PAN,Panama,2015,1940.0,Decile 9
+PAN,Panama,2015,4110.0,Decile 10
+PRY,Paraguay,2005,20.0,Decile 1
+PRY,Paraguay,2005,30.0,Decile 2
+PRY,Paraguay,2005,50.0,Decile 3
+PRY,Paraguay,2005,60.0,Decile 4
+PRY,Paraguay,2005,80.0,Decile 5
+PRY,Paraguay,2005,90.0,Decile 6
+PRY,Paraguay,2005,120.0,Decile 7
+PRY,Paraguay,2005,160.0,Decile 8
+PRY,Paraguay,2005,220.0,Decile 9
+PRY,Paraguay,2005,560.0,Decile 10
+PRY,Paraguay,2010,40.0,Decile 1
+PRY,Paraguay,2010,80.0,Decile 2
+PRY,Paraguay,2010,110.0,Decile 3
+PRY,Paraguay,2010,150.0,Decile 4
+PRY,Paraguay,2010,200.0,Decile 5
+PRY,Paraguay,2010,240.0,Decile 6
+PRY,Paraguay,2010,310.0,Decile 7
+PRY,Paraguay,2010,390.0,Decile 8
+PRY,Paraguay,2010,540.0,Decile 9
+PRY,Paraguay,2010,1440.0,Decile 10
+PRY,Paraguay,2015,60.0,Decile 1
+PRY,Paraguay,2015,110.0,Decile 2
+PRY,Paraguay,2015,160.0,Decile 3
+PRY,Paraguay,2015,210.0,Decile 4
+PRY,Paraguay,2015,260.0,Decile 5
+PRY,Paraguay,2015,320.0,Decile 6
+PRY,Paraguay,2015,400.0,Decile 7
+PRY,Paraguay,2015,520.0,Decile 8
+PRY,Paraguay,2015,720.0,Decile 9
+PRY,Paraguay,2015,1670.0,Decile 10
+PRY,Paraguay,2020,70.0,Decile 1
+PRY,Paraguay,2020,120.0,Decile 2
+PRY,Paraguay,2020,170.0,Decile 3
+PRY,Paraguay,2020,210.0,Decile 4
+PRY,Paraguay,2020,260.0,Decile 5
+PRY,Paraguay,2020,320.0,Decile 6
+PRY,Paraguay,2020,390.0,Decile 7
+PRY,Paraguay,2020,490.0,Decile 8
+PRY,Paraguay,2020,660.0,Decile 9
+PRY,Paraguay,2020,1410.0,Decile 10
+PER,Peru,2005,30.0,Decile 1
+PER,Peru,2005,50.0,Decile 2
+PER,Peru,2005,70.0,Decile 3
+PER,Peru,2005,90.0,Decile 4
+PER,Peru,2005,120.0,Decile 5
+PER,Peru,2005,160.0,Decile 6
+PER,Peru,2005,200.0,Decile 7
+PER,Peru,2005,250.0,Decile 8
+PER,Peru,2005,350.0,Decile 9
+PER,Peru,2005,870.0,Decile 10
+PER,Peru,2010,50.0,Decile 1
+PER,Peru,2010,100.0,Decile 2
+PER,Peru,2010,150.0,Decile 3
+PER,Peru,2010,200.0,Decile 4
+PER,Peru,2010,250.0,Decile 5
+PER,Peru,2010,310.0,Decile 6
+PER,Peru,2010,380.0,Decile 7
+PER,Peru,2010,480.0,Decile 8
+PER,Peru,2010,640.0,Decile 9
+PER,Peru,2010,1380.0,Decile 10
+PER,Peru,2015,80.0,Decile 1
+PER,Peru,2015,140.0,Decile 2
+PER,Peru,2015,210.0,Decile 3
+PER,Peru,2015,260.0,Decile 4
+PER,Peru,2015,320.0,Decile 5
+PER,Peru,2015,390.0,Decile 6
+PER,Peru,2015,480.0,Decile 7
+PER,Peru,2015,600.0,Decile 8
+PER,Peru,2015,800.0,Decile 9
+PER,Peru,2015,1660.0,Decile 10
+PER,Peru,2020,70.0,Decile 1
+PER,Peru,2020,140.0,Decile 2
+PER,Peru,2020,200.0,Decile 3
+PER,Peru,2020,250.0,Decile 4
+PER,Peru,2020,310.0,Decile 5
+PER,Peru,2020,390.0,Decile 6
+PER,Peru,2020,480.0,Decile 7
+PER,Peru,2020,610.0,Decile 8
+PER,Peru,2020,830.0,Decile 9
+PER,Peru,2020,1730.0,Decile 10
+DOM,Dominican Republic,2000,30.0,Decile 1
+DOM,Dominican Republic,2000,70.0,Decile 2
+DOM,Dominican Republic,2000,90.0,Decile 3
+DOM,Dominican Republic,2000,110.0,Decile 4
+DOM,Dominican Republic,2000,140.0,Decile 5
+DOM,Dominican Republic,2000,180.0,Decile 6
+DOM,Dominican Republic,2000,220.0,Decile 7
+DOM,Dominican Republic,2000,290.0,Decile 8
+DOM,Dominican Republic,2000,410.0,Decile 9
+DOM,Dominican Republic,2000,1030.0,Decile 10
+DOM,Dominican Republic,2005,40.0,Decile 1
+DOM,Dominican Republic,2005,80.0,Decile 2
+DOM,Dominican Republic,2005,120.0,Decile 3
+DOM,Dominican Republic,2005,150.0,Decile 4
+DOM,Dominican Republic,2005,180.0,Decile 5
+DOM,Dominican Republic,2005,230.0,Decile 6
+DOM,Dominican Republic,2005,290.0,Decile 7
+DOM,Dominican Republic,2005,370.0,Decile 8
+DOM,Dominican Republic,2005,540.0,Decile 9
+DOM,Dominican Republic,2005,1310.0,Decile 10
+DOM,Dominican Republic,2010,80.0,Decile 1
+DOM,Dominican Republic,2010,130.0,Decile 2
+DOM,Dominican Republic,2010,170.0,Decile 3
+DOM,Dominican Republic,2010,220.0,Decile 4
+DOM,Dominican Republic,2010,270.0,Decile 5
+DOM,Dominican Republic,2010,340.0,Decile 6
+DOM,Dominican Republic,2010,420.0,Decile 7
+DOM,Dominican Republic,2010,540.0,Decile 8
+DOM,Dominican Republic,2010,770.0,Decile 9
+DOM,Dominican Republic,2010,1730.0,Decile 10
+DOM,Dominican Republic,2015,110.0,Decile 1
+DOM,Dominican Republic,2015,180.0,Decile 2
+DOM,Dominican Republic,2015,230.0,Decile 3
+DOM,Dominican Republic,2015,290.0,Decile 4
+DOM,Dominican Republic,2015,360.0,Decile 5
+DOM,Dominican Republic,2015,430.0,Decile 6
+DOM,Dominican Republic,2015,530.0,Decile 7
+DOM,Dominican Republic,2015,670.0,Decile 8
+DOM,Dominican Republic,2015,930.0,Decile 9
+DOM,Dominican Republic,2015,2040.0,Decile 10
+DOM,Dominican Republic,2020,140.0,Decile 1
+DOM,Dominican Republic,2020,230.0,Decile 2
+DOM,Dominican Republic,2020,300.0,Decile 3
+DOM,Dominican Republic,2020,360.0,Decile 4
+DOM,Dominican Republic,2020,420.0,Decile 5
+DOM,Dominican Republic,2020,500.0,Decile 6
+DOM,Dominican Republic,2020,600.0,Decile 7
+DOM,Dominican Republic,2020,740.0,Decile 8
+DOM,Dominican Republic,2020,990.0,Decile 9
+DOM,Dominican Republic,2020,1940.0,Decile 10
+URY,Uruguay,2010,220.0,Decile 1
+URY,Uruguay,2010,340.0,Decile 2
+URY,Uruguay,2010,440.0,Decile 3
+URY,Uruguay,2010,550.0,Decile 4
+URY,Uruguay,2010,670.0,Decile 5
+URY,Uruguay,2010,810.0,Decile 6
+URY,Uruguay,2010,1000.0,Decile 7
+URY,Uruguay,2010,1270.0,Decile 8
+URY,Uruguay,2010,1730.0,Decile 9
+URY,Uruguay,2010,3500.0,Decile 10
+URY,Uruguay,2015,320.0,Decile 1
+URY,Uruguay,2015,500.0,Decile 2
+URY,Uruguay,2015,640.0,Decile 3
+URY,Uruguay,2015,790.0,Decile 4
+URY,Uruguay,2015,950.0,Decile 5
+URY,Uruguay,2015,1140.0,Decile 6
+URY,Uruguay,2015,1360.0,Decile 7
+URY,Uruguay,2015,1690.0,Decile 8
+URY,Uruguay,2015,2160.0,Decile 9
+URY,Uruguay,2015,4010.0,Decile 10
+URY,Uruguay,2020,290.0,Decile 1
+URY,Uruguay,2020,440.0,Decile 2
+URY,Uruguay,2020,560.0,Decile 3
+URY,Uruguay,2020,700.0,Decile 4
+URY,Uruguay,2020,850.0,Decile 5
+URY,Uruguay,2020,1010.0,Decile 6
+URY,Uruguay,2020,1220.0,Decile 7
+URY,Uruguay,2020,1510.0,Decile 8
+URY,Uruguay,2020,1950.0,Decile 9
+URY,Uruguay,2020,3630.0,Decile 10
+VEN,Venezuela (Bolivarian Republic of),2000,90.0,Decile 1
+VEN,Venezuela (Bolivarian Republic of),2000,160.0,Decile 2
+VEN,Venezuela (Bolivarian Republic of),2000,200.0,Decile 3
+VEN,Venezuela (Bolivarian Republic of),2000,240.0,Decile 4
+VEN,Venezuela (Bolivarian Republic of),2000,280.0,Decile 5
+VEN,Venezuela (Bolivarian Republic of),2000,330.0,Decile 6
+VEN,Venezuela (Bolivarian Republic of),2000,390.0,Decile 7
+VEN,Venezuela (Bolivarian Republic of),2000,480.0,Decile 8
+VEN,Venezuela (Bolivarian Republic of),2000,620.0,Decile 9
+VEN,Venezuela (Bolivarian Republic of),2000,1200.0,Decile 10
+VEN,Venezuela (Bolivarian Republic of),2005,60.0,Decile 1
+VEN,Venezuela (Bolivarian Republic of),2005,160.0,Decile 2
+VEN,Venezuela (Bolivarian Republic of),2005,210.0,Decile 3
+VEN,Venezuela (Bolivarian Republic of),2005,250.0,Decile 4
+VEN,Venezuela (Bolivarian Republic of),2005,290.0,Decile 5
+VEN,Venezuela (Bolivarian Republic of),2005,370.0,Decile 6
+VEN,Venezuela (Bolivarian Republic of),2005,440.0,Decile 7
+VEN,Venezuela (Bolivarian Republic of),2005,530.0,Decile 8
+VEN,Venezuela (Bolivarian Republic of),2005,700.0,Decile 9
+VEN,Venezuela (Bolivarian Republic of),2005,1510.0,Decile 10
+VEN,Venezuela (Bolivarian Republic of),2010,190.0,Decile 1
+VEN,Venezuela (Bolivarian Republic of),2010,330.0,Decile 2
+VEN,Venezuela (Bolivarian Republic of),2010,430.0,Decile 3
+VEN,Venezuela (Bolivarian Republic of),2010,510.0,Decile 4
+VEN,Venezuela (Bolivarian Republic of),2010,600.0,Decile 5
+VEN,Venezuela (Bolivarian Republic of),2010,690.0,Decile 6
+VEN,Venezuela (Bolivarian Republic of),2010,800.0,Decile 7
+VEN,Venezuela (Bolivarian Republic of),2010,1040.0,Decile 8
+VEN,Venezuela (Bolivarian Republic of),2010,1300.0,Decile 9
+VEN,Venezuela (Bolivarian Republic of),2010,2210.0,Decile 10
