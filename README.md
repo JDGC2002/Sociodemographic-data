@@ -1,11 +1,16 @@
-Sociodemographic Data Extraction from CEPAL API
+# 📊 Sociodemographic Data Extraction from the CEPAL API #
+A data extraction and processing tool that connects to the CEPAL (Economic Commission for Latin America and the Caribbean) API to retrieve, clean, and store sociodemographic data in CSV format for analysis and reporting.
 
-A data extraction project that connects to the CEPAL (Economic Commission for Latin America and the Caribbean) API, retrieves sociodemographic information, preprocesses the data, and stores it in CSV format.
+# 🌐 Project Overview #
+This project automates the retrieval of sociodemographic indicators from the CEPAL API, streamlines the data through preprocessing techniques, and exports the refined dataset into CSV files. This structured data can be used for further analysis, visualization, or storage.
 
-Description
-This project establishes a connection with the CEPAL API to gather various sociodemographic indicators. It applies fundamental data preprocessing methods to clean and structure the retrieved data, facilitating further analysis or archival purposes.
+# 🚀 Key Features #
+- API Integration: Seamlessly connects to the CEPAL API to collect the latest sociodemographic data.
+- Data Preprocessing: Cleans and organizes raw data for enhanced usability.
+- CSV Export: Saves processed data in CSV format for easy access and analysis.
 
-Features
-API Connection: Integrates with the CEPAL API to obtain up-to-date sociodemographic statistics.
-Data Preprocessing: Applies cleaning and formatting procedures to refine the dataset.
-CSV Export: Outputs the final dataset in CSV format, enabling easy storage and sharing.
+# 📖 Usage Instructions #
+- Visit the CEPAL API Documentation for details on how to interact with the API.
+- Use the main endpoint to retrieve a list of all indicator IDs.
+- Add the retrieved indicator IDs to the indicators.csv file located in the Resources folder.
+- Execute the script to fetch, process, and export the data.
